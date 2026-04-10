@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Major Mystery</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header>
+        <h1>⛳ Major Mystery</h1>
+        <p class="subtitle">Guess the golfer in 4 tries.</p>
+      </header>
+
+      <section class="card" id="hints"></section>
+
+      <form id="guess-form" class="guess-form" autocomplete="off">
+        <label for="guess-input">Your guess</label>
+        <input id="guess-input" name="guess" type="text" placeholder="Type golfer name" required />
+        <button type="submit">Submit Guess</button>
+      </form>
+
+      <section class="card status" id="status"></section>
+
+      <div class="attempts" id="attempts"></div>
+
+      <button class="new-game" id="new-game">New Golfer</button>
+    </main>
+
+    <dialog id="win-dialog">
+      <h2 id="win-title"></h2>
+      <img id="winner-image" alt="Winning golfer" />
+      <p id="winner-meta"></p>
+      <div class="dialog-actions">
+        <button id="share-btn">Share</button>
+        <button id="close-dialog">Play Again</button>
+      </div>
+    </dialog>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

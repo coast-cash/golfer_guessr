@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Tiger Woods",
+    "country": "United States",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tiger_Woods_in_2007.jpg/640px-Tiger_Woods_in_2007.jpg",
+    "wins": [
+      {"tournament": "The Masters", "year": 1997, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2001, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2002, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2005, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2019, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 2000, "course": "Pebble Beach Golf Links"},
+      {"tournament": "U.S. Open", "year": 2002, "course": "Bethpage Black"},
+      {"tournament": "U.S. Open", "year": 2008, "course": "Torrey Pines Golf Course"},
+      {"tournament": "The Open", "year": 2000, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 2005, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 2006, "course": "Royal Liverpool (Hoylake)"},
+      {"tournament": "PGA Championship", "year": 1999, "course": "Medinah Country Club"},
+      {"tournament": "PGA Championship", "year": 2000, "course": "Valhalla Golf Club"},
+      {"tournament": "PGA Championship", "year": 2006, "course": "Medinah Country Club"},
+      {"tournament": "PGA Championship", "year": 2007, "course": "Southern Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Jack Nicklaus",
+    "country": "United States",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jack_Nicklaus_1966.jpg/640px-Jack_Nicklaus_1966.jpg",
+    "wins": [
+      {"tournament":"The Masters","year":1963,"course":"Augusta National"},
+      {"tournament":"The Masters","year":1965,"course":"Augusta National"},
+      {"tournament":"The Masters","year":1966,"course":"Augusta National"},
+      {"tournament":"The Masters","year":1972,"course":"Augusta National"},
+      {"tournament":"The Masters","year":1975,"course":"Augusta National"},
+      {"tournament":"The Masters","year":1986,"course":"Augusta National"},
+      {"tournament":"U.S. Open","year":1962,"course":"Oakmont Country Club"},
+      {"tournament":"U.S. Open","year":1967,"course":"Baltusrol Golf Club"},
+      {"tournament":"U.S. Open","year":1972,"course":"Pebble Beach Golf Links"},
+      {"tournament":"U.S. Open","year":1980,"course":"Baltusrol Golf Club"},
+      {"tournament":"The Open","year":1966,"course":"Muirfield"},
+      {"tournament":"The Open","year":1970,"course":"St Andrews"},
+      {"tournament":"The Open","year":1978,"course":"St Andrews"},
+      {"tournament":"PGA Championship","year":1963,"course":"Dallas Athletic Club"},
+      {"tournament":"PGA Championship","year":1971,"course":"PGA National Golf Club"},
+      {"tournament":"PGA Championship","year":1973,"course":"Canterbury Golf Club"},
+      {"tournament":"PGA Championship","year":1975,"course":"Firestone Country Club"},
+      {"tournament":"PGA Championship","year":1980,"course":"Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Rory McIlroy",
+    "country": "Northern Ireland",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rory_McIlroy_in_May_2013.jpg/640px-Rory_McIlroy_in_May_2013.jpg",
+    "wins": [
+      {"tournament":"The Masters","year":2025,"course":"Augusta National"},
+      {"tournament":"U.S. Open","year":2011,"course":"Congressional Country Club"},
+      {"tournament":"The Open","year":2014,"course":"Royal Liverpool (Hoylake)"},
+      {"tournament":"PGA Championship","year":2012,"course":"Kiawah Island Golf Resort"},
+      {"tournament":"PGA Championship","year":2014,"course":"Valhalla Golf Club"}
+    ]
+  },
+  {
+    "name": "Scottie Scheffler",
+    "country": "United States",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Scottie_Scheffler_2022.jpg/640px-Scottie_Scheffler_2022.jpg",
+    "wins": [
+      {"tournament":"The Masters","year":2022,"course":"Augusta National"},
+      {"tournament":"The Masters","year":2024,"course":"Augusta National"},
+      {"tournament":"The Open","year":2025,"course":"Royal Portrush"},
+      {"tournament":"PGA Championship","year":2025,"course":"Quail Hollow Club"}
+    ]
+  },
+  {
+    "name": "Phil Mickelson",
+    "country": "United States",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Phil_Mickelson_2011.jpg/640px-Phil_Mickelson_2011.jpg",
+    "wins": [
+      {"tournament":"The Masters","year":2004,"course":"Augusta National"},
+      {"tournament":"The Masters","year":2006,"course":"Augusta National"},
+      {"tournament":"The Masters","year":2010,"course":"Augusta National"},
+      {"tournament":"The Open","year":2013,"course":"Muirfield"},
+      {"tournament":"PGA Championship","year":2005,"course":"Baltusrol Golf Club"},
+      {"tournament":"PGA Championship","year":2021,"course":"Kiawah Island Golf Resort"}
+    ]
+  }
+]
