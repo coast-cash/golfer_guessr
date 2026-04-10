@@ -1,9 +1,716 @@
 [
   {
+    "name": "Willie Park Sr.",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1860, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1863, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1866, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1875, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "Tom Morris Sr.",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1861, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1862, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1864, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1867, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "Andrew Strath",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1865, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "Tom Morris Jr.",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1868, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1869, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1870, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1872, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "Tom Kidd",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1873, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Mungo Park",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1874, "course": "Musselburgh"}
+    ]
+  },
+  {
+    "name": "Bob Martin",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1876, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1885, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Jamie Anderson",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1877, "course": "Musselburgh"},
+      {"tournament": "The Open", "year": 1878, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1879, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Bob Ferguson",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1880, "course": "Musselburgh"},
+      {"tournament": "The Open", "year": 1881, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1882, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Willie Fernie",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1883, "course": "Musselburgh"}
+    ]
+  },
+  {
+    "name": "Jack Simpson",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1884, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "David Brown",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1886, "course": "Musselburgh"}
+    ]
+  },
+  {
+    "name": "Willie Park Jr.",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1887, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1889, "course": "Musselburgh"}
+    ]
+  },
+  {
+    "name": "Jack Burns",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1888, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "John Ball",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1890, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "Hugh Kirkaldy",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1891, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Harold Hilton",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1892, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1897, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "William Auchterlonie",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1893, "course": "Prestwick"}
+    ]
+  },
+  {
+    "name": "J.H. Taylor",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1894, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1895, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1900, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1909, "course": "Royal Cinque Ports (Deal)"},
+      {"tournament": "The Open", "year": 1913, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Harry Vardon",
+    "country": "Jersey",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1896, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1898, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1899, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1903, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1911, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1914, "course": "Prestwick"},
+      {"tournament": "U.S. Open", "year": 1900, "course": "Chicago Golf Club"}
+    ]
+  },
+  {
+    "name": "James Braid",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1901, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1905, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1906, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1908, "course": "Prestwick"},
+      {"tournament": "The Open", "year": 1910, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Sandy Herd",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1902, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Jack White",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1904, "course": "Royal St George's"}
+    ]
+  },
+  {
+    "name": "Arnaud Massy",
+    "country": "France",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1907, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Ted Ray",
+    "country": "Jersey",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1912, "course": "Muirfield"},
+      {"tournament": "U.S. Open", "year": 1920, "course": "Inverness Club"}
+    ]
+  },
+  {
+    "name": "George Duncan",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1920, "course": "Royal Cinque Ports (Deal)"}
+    ]
+  },
+  {
+    "name": "Jock Hutchison",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1921, "course": "St Andrews"},
+      {"tournament": "PGA Championship", "year": 1920, "course": "Flossmoor Country Club"}
+    ]
+  },
+  {
+    "name": "Walter Hagen",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1922, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1924, "course": "Royal Liverpool (Hoylake)"},
+      {"tournament": "The Open", "year": 1928, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1929, "course": "Muirfield"},
+      {"tournament": "U.S. Open", "year": 1914, "course": "Midlothian Country Club"},
+      {"tournament": "U.S. Open", "year": 1919, "course": "Brae Burn Country Club"},
+      {"tournament": "PGA Championship", "year": 1921, "course": "Inwood Country Club"},
+      {"tournament": "PGA Championship", "year": 1924, "course": "French Lick Springs Hotel"},
+      {"tournament": "PGA Championship", "year": 1925, "course": "Olympia Fields Country Club"},
+      {"tournament": "PGA Championship", "year": 1926, "course": "Salisbury Golf Club"},
+      {"tournament": "PGA Championship", "year": 1927, "course": "Cedar Crest Country Club"}
+    ]
+  },
+  {
+    "name": "Arthur Havers",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1923, "course": "Royal Troon"}
+    ]
+  },
+  {
+    "name": "Jim Barnes",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1925, "course": "Prestwick"},
+      {"tournament": "U.S. Open", "year": 1921, "course": "Columbia Country Club"},
+      {"tournament": "PGA Championship", "year": 1916, "course": "Siwanoy Country Club"},
+      {"tournament": "PGA Championship", "year": 1919, "course": "Engineers Country Club"}
+    ]
+  },
+  {
+    "name": "Bobby Jones",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1926, "course": "Royal Lytham & St Annes"},
+      {"tournament": "The Open", "year": 1927, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1930, "course": "Royal Liverpool (Hoylake)"},
+      {"tournament": "U.S. Open", "year": 1923, "course": "Inwood Country Club"},
+      {"tournament": "U.S. Open", "year": 1926, "course": "Scioto Country Club"},
+      {"tournament": "U.S. Open", "year": 1929, "course": "Winged Foot Golf Club"},
+      {"tournament": "U.S. Open", "year": 1930, "course": "Interlachen Country Club"}
+    ]
+  },
+  {
+    "name": "Tommy Armour",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1931, "course": "Carnoustie"},
+      {"tournament": "U.S. Open", "year": 1927, "course": "Oakmont Country Club"},
+      {"tournament": "PGA Championship", "year": 1930, "course": "Fresh Meadow Country Club"}
+    ]
+  },
+  {
+    "name": "Gene Sarazen",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1932, "course": "Prince's"},
+      {"tournament": "The Masters", "year": 1935, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1922, "course": "Skokie Country Club"},
+      {"tournament": "U.S. Open", "year": 1932, "course": "Fresh Meadow Country Club"},
+      {"tournament": "PGA Championship", "year": 1922, "course": "Oakmont Country Club"},
+      {"tournament": "PGA Championship", "year": 1923, "course": "Pelham Country Club"},
+      {"tournament": "PGA Championship", "year": 1933, "course": "Blue Mound Country Club"}
+    ]
+  },
+  {
+    "name": "Denny Shute",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1933, "course": "St Andrews"},
+      {"tournament": "PGA Championship", "year": 1936, "course": "Pinehurst Resort (No. 2)"},
+      {"tournament": "PGA Championship", "year": 1937, "course": "Pittsburgh Field Club"}
+    ]
+  },
+  {
+    "name": "Henry Cotton",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1934, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1937, "course": "Carnoustie"},
+      {"tournament": "The Open", "year": 1948, "course": "Muirfield"}
+    ]
+  },
+  {
+    "name": "Alf Perry",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1935, "course": "Muirfield"}
+    ]
+  },
+  {
+    "name": "Alf Padgham",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1936, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Reg Whitcombe",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1938, "course": "Royal St George's"}
+    ]
+  },
+  {
+    "name": "Richard Burton",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1939, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Sam Snead",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1946, "course": "St Andrews"},
+      {"tournament": "The Masters", "year": 1949, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1952, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1954, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 1942, "course": "Seaview Country Club"},
+      {"tournament": "PGA Championship", "year": 1949, "course": "Hermitage Country Club"},
+      {"tournament": "PGA Championship", "year": 1951, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Fred Daly",
+    "country": "Northern Ireland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1947, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Bobby Locke",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1949, "course": "Royal St George's"},
+      {"tournament": "The Open", "year": 1950, "course": "Royal Troon"},
+      {"tournament": "The Open", "year": 1952, "course": "Royal Lytham & St Annes"},
+      {"tournament": "The Open", "year": 1957, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Max Faulkner",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1951, "course": "Royal Portrush"}
+    ]
+  },
+  {
+    "name": "Ben Hogan",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1953, "course": "Carnoustie"},
+      {"tournament": "The Masters", "year": 1951, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1953, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1948, "course": "Riviera Country Club"},
+      {"tournament": "U.S. Open", "year": 1950, "course": "Merion Golf Club"},
+      {"tournament": "U.S. Open", "year": 1951, "course": "Oakland Hills Country Club"},
+      {"tournament": "U.S. Open", "year": 1953, "course": "Oakmont Country Club"},
+      {"tournament": "PGA Championship", "year": 1946, "course": "Portland Golf Club"},
+      {"tournament": "PGA Championship", "year": 1948, "course": "Norwood Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Peter Thomson",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1954, "course": "Royal Birkdale"},
+      {"tournament": "The Open", "year": 1955, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1956, "course": "Royal Liverpool (Hoylake)"},
+      {"tournament": "The Open", "year": 1958, "course": "Royal Lytham & St Annes"},
+      {"tournament": "The Open", "year": 1965, "course": "Royal Birkdale"}
+    ]
+  },
+  {
+    "name": "Gary Player",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1959, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1968, "course": "Carnoustie"},
+      {"tournament": "The Open", "year": 1974, "course": "Royal Lytham & St Annes"},
+      {"tournament": "The Masters", "year": 1961, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1974, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1978, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1965, "course": "Bellerive Country Club"},
+      {"tournament": "PGA Championship", "year": 1962, "course": "Aronimink Golf Club"},
+      {"tournament": "PGA Championship", "year": 1972, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Kel Nagle",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1960, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Arnold Palmer",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1961, "course": "Royal Birkdale"},
+      {"tournament": "The Open", "year": 1962, "course": "Royal Troon"},
+      {"tournament": "The Masters", "year": 1958, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1960, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1962, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1964, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1960, "course": "Cherry Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Bob Charles",
+    "country": "New Zealand",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1963, "course": "Royal Lytham & St Annes"}
+    ]
+  },
+  {
+    "name": "Tony Lema",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1964, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Jack Nicklaus",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1966, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1970, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1978, "course": "St Andrews"},
+      {"tournament": "The Masters", "year": 1963, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1965, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1966, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1972, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1975, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1986, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1962, "course": "Oakmont Country Club"},
+      {"tournament": "U.S. Open", "year": 1967, "course": "Baltusrol Golf Club"},
+      {"tournament": "U.S. Open", "year": 1972, "course": "Pebble Beach Golf Links"},
+      {"tournament": "U.S. Open", "year": 1980, "course": "Baltusrol Golf Club"},
+      {"tournament": "PGA Championship", "year": 1963, "course": "Dallas Athletic Club"},
+      {"tournament": "PGA Championship", "year": 1971, "course": "PGA National Golf Club"},
+      {"tournament": "PGA Championship", "year": 1973, "course": "Canterbury Golf Club"},
+      {"tournament": "PGA Championship", "year": 1975, "course": "Firestone Country Club"},
+      {"tournament": "PGA Championship", "year": 1980, "course": "Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Roberto De Vicenzo",
+    "country": "Argentina",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1967, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Tony Jacklin",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1969, "course": "Royal Lytham & St Annes"},
+      {"tournament": "U.S. Open", "year": 1970, "course": "Hazeltine National Golf Club"}
+    ]
+  },
+  {
+    "name": "Lee Trevino",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1971, "course": "Royal Birkdale"},
+      {"tournament": "The Open", "year": 1972, "course": "Muirfield"},
+      {"tournament": "U.S. Open", "year": 1968, "course": "Oak Hill Country Club"},
+      {"tournament": "U.S. Open", "year": 1971, "course": "Merion Golf Club"},
+      {"tournament": "PGA Championship", "year": 1974, "course": "Tanglewood Park"},
+      {"tournament": "PGA Championship", "year": 1984, "course": "Shoal Creek"}
+    ]
+  },
+  {
+    "name": "Tom Weiskopf",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1973, "course": "Royal Troon"}
+    ]
+  },
+  {
+    "name": "Tom Watson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1975, "course": "Carnoustie"},
+      {"tournament": "The Open", "year": 1977, "course": "Turnberry"},
+      {"tournament": "The Open", "year": 1980, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1982, "course": "Royal Troon"},
+      {"tournament": "The Open", "year": 1983, "course": "Royal Birkdale"},
+      {"tournament": "The Masters", "year": 1977, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1981, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1982, "course": "Pebble Beach Golf Links"}
+    ]
+  },
+  {
+    "name": "Johnny Miller",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1976, "course": "Royal Birkdale"},
+      {"tournament": "U.S. Open", "year": 1973, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Seve Ballesteros",
+    "country": "Spain",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1979, "course": "Royal Lytham & St Annes"},
+      {"tournament": "The Open", "year": 1984, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1988, "course": "Royal Lytham & St Annes"},
+      {"tournament": "The Masters", "year": 1980, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1983, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Bill Rogers",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1981, "course": "Royal St George's"}
+    ]
+  },
+  {
+    "name": "Sandy Lyle",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1985, "course": "Royal St George's"},
+      {"tournament": "The Masters", "year": 1988, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Greg Norman",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1986, "course": "Turnberry"},
+      {"tournament": "The Open", "year": 1993, "course": "Royal St George's"}
+    ]
+  },
+  {
+    "name": "Nick Faldo",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1987, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 1990, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 1992, "course": "Muirfield"},
+      {"tournament": "The Masters", "year": 1989, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1990, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1996, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Mark Calcavecchia",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1989, "course": "Royal Troon"}
+    ]
+  },
+  {
+    "name": "Ian Baker-Finch",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1991, "course": "Royal Birkdale"}
+    ]
+  },
+  {
+    "name": "Nick Price",
+    "country": "Zimbabwe",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1994, "course": "Turnberry"},
+      {"tournament": "PGA Championship", "year": 1992, "course": "Bellerive Country Club"},
+      {"tournament": "PGA Championship", "year": 1994, "course": "Southern Hills Country Club"}
+    ]
+  },
+  {
+    "name": "John Daly",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1995, "course": "St Andrews"},
+      {"tournament": "PGA Championship", "year": 1991, "course": "Crooked Stick Golf Club"}
+    ]
+  },
+  {
+    "name": "Tom Lehman",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1996, "course": "Royal Lytham & St Annes"}
+    ]
+  },
+  {
+    "name": "Justin Leonard",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1997, "course": "Royal Troon"}
+    ]
+  },
+  {
+    "name": "Mark O'Meara",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1998, "course": "Royal Birkdale"},
+      {"tournament": "The Masters", "year": 1998, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Paul Lawrie",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 1999, "course": "Carnoustie"}
+    ]
+  },
+  {
     "name": "Tiger Woods",
     "country": "United States",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tiger_Woods_in_2007.jpg/640px-Tiger_Woods_in_2007.jpg",
+    "photo": "",
     "wins": [
+      {"tournament": "The Open", "year": 2000, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 2005, "course": "St Andrews"},
+      {"tournament": "The Open", "year": 2006, "course": "Royal Liverpool (Hoylake)"},
       {"tournament": "The Masters", "year": 1997, "course": "Augusta National"},
       {"tournament": "The Masters", "year": 2001, "course": "Augusta National"},
       {"tournament": "The Masters", "year": 2002, "course": "Augusta National"},
@@ -12,9 +719,6 @@
       {"tournament": "U.S. Open", "year": 2000, "course": "Pebble Beach Golf Links"},
       {"tournament": "U.S. Open", "year": 2002, "course": "Bethpage Black"},
       {"tournament": "U.S. Open", "year": 2008, "course": "Torrey Pines Golf Course"},
-      {"tournament": "The Open", "year": 2000, "course": "St Andrews"},
-      {"tournament": "The Open", "year": 2005, "course": "St Andrews"},
-      {"tournament": "The Open", "year": 2006, "course": "Royal Liverpool (Hoylake)"},
       {"tournament": "PGA Championship", "year": 1999, "course": "Medinah Country Club"},
       {"tournament": "PGA Championship", "year": 2000, "course": "Valhalla Golf Club"},
       {"tournament": "PGA Championship", "year": 2006, "course": "Medinah Country Club"},
@@ -22,64 +726,1381 @@
     ]
   },
   {
-    "name": "Jack Nicklaus",
+    "name": "David Duval",
     "country": "United States",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jack_Nicklaus_1966.jpg/640px-Jack_Nicklaus_1966.jpg",
+    "photo": "",
     "wins": [
-      {"tournament":"The Masters","year":1963,"course":"Augusta National"},
-      {"tournament":"The Masters","year":1965,"course":"Augusta National"},
-      {"tournament":"The Masters","year":1966,"course":"Augusta National"},
-      {"tournament":"The Masters","year":1972,"course":"Augusta National"},
-      {"tournament":"The Masters","year":1975,"course":"Augusta National"},
-      {"tournament":"The Masters","year":1986,"course":"Augusta National"},
-      {"tournament":"U.S. Open","year":1962,"course":"Oakmont Country Club"},
-      {"tournament":"U.S. Open","year":1967,"course":"Baltusrol Golf Club"},
-      {"tournament":"U.S. Open","year":1972,"course":"Pebble Beach Golf Links"},
-      {"tournament":"U.S. Open","year":1980,"course":"Baltusrol Golf Club"},
-      {"tournament":"The Open","year":1966,"course":"Muirfield"},
-      {"tournament":"The Open","year":1970,"course":"St Andrews"},
-      {"tournament":"The Open","year":1978,"course":"St Andrews"},
-      {"tournament":"PGA Championship","year":1963,"course":"Dallas Athletic Club"},
-      {"tournament":"PGA Championship","year":1971,"course":"PGA National Golf Club"},
-      {"tournament":"PGA Championship","year":1973,"course":"Canterbury Golf Club"},
-      {"tournament":"PGA Championship","year":1975,"course":"Firestone Country Club"},
-      {"tournament":"PGA Championship","year":1980,"course":"Oak Hill Country Club"}
+      {"tournament": "The Open", "year": 2001, "course": "Royal Lytham & St Annes"}
     ]
   },
   {
-    "name": "Rory McIlroy",
+    "name": "Ernie Els",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2002, "course": "Muirfield"},
+      {"tournament": "The Open", "year": 2012, "course": "Royal Lytham & St Annes"},
+      {"tournament": "U.S. Open", "year": 1994, "course": "Oakmont Country Club"},
+      {"tournament": "U.S. Open", "year": 1997, "course": "Congressional Country Club"}
+    ]
+  },
+  {
+    "name": "Ben Curtis",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2003, "course": "Royal St George's"}
+    ]
+  },
+  {
+    "name": "Todd Hamilton",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2004, "course": "Royal Troon"}
+    ]
+  },
+  {
+    "name": "Padraig Harrington",
+    "country": "Ireland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2007, "course": "Carnoustie"},
+      {"tournament": "The Open", "year": 2008, "course": "Royal Birkdale"},
+      {"tournament": "PGA Championship", "year": 2008, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Stewart Cink",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2009, "course": "Turnberry"}
+    ]
+  },
+  {
+    "name": "Louis Oosthuizen",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2010, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Darren Clarke",
     "country": "Northern Ireland",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rory_McIlroy_in_May_2013.jpg/640px-Rory_McIlroy_in_May_2013.jpg",
+    "photo": "",
     "wins": [
-      {"tournament":"The Masters","year":2025,"course":"Augusta National"},
-      {"tournament":"U.S. Open","year":2011,"course":"Congressional Country Club"},
-      {"tournament":"The Open","year":2014,"course":"Royal Liverpool (Hoylake)"},
-      {"tournament":"PGA Championship","year":2012,"course":"Kiawah Island Golf Resort"},
-      {"tournament":"PGA Championship","year":2014,"course":"Valhalla Golf Club"}
-    ]
-  },
-  {
-    "name": "Scottie Scheffler",
-    "country": "United States",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Scottie_Scheffler_2022.jpg/640px-Scottie_Scheffler_2022.jpg",
-    "wins": [
-      {"tournament":"The Masters","year":2022,"course":"Augusta National"},
-      {"tournament":"The Masters","year":2024,"course":"Augusta National"},
-      {"tournament":"The Open","year":2025,"course":"Royal Portrush"},
-      {"tournament":"PGA Championship","year":2025,"course":"Quail Hollow Club"}
+      {"tournament": "The Open", "year": 2011, "course": "Royal St George's"}
     ]
   },
   {
     "name": "Phil Mickelson",
     "country": "United States",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Phil_Mickelson_2011.jpg/640px-Phil_Mickelson_2011.jpg",
+    "photo": "",
     "wins": [
-      {"tournament":"The Masters","year":2004,"course":"Augusta National"},
-      {"tournament":"The Masters","year":2006,"course":"Augusta National"},
-      {"tournament":"The Masters","year":2010,"course":"Augusta National"},
-      {"tournament":"The Open","year":2013,"course":"Muirfield"},
-      {"tournament":"PGA Championship","year":2005,"course":"Baltusrol Golf Club"},
-      {"tournament":"PGA Championship","year":2021,"course":"Kiawah Island Golf Resort"}
+      {"tournament": "The Open", "year": 2013, "course": "Muirfield"},
+      {"tournament": "The Masters", "year": 2004, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2006, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2010, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 2005, "course": "Baltusrol Golf Club"},
+      {"tournament": "PGA Championship", "year": 2021, "course": "Kiawah Island Golf Resort"}
+    ]
+  },
+  {
+    "name": "Rory McIlroy",
+    "country": "Northern Ireland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2014, "course": "Royal Liverpool (Hoylake)"},
+      {"tournament": "The Masters", "year": 2025, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 2011, "course": "Congressional Country Club"},
+      {"tournament": "PGA Championship", "year": 2012, "course": "Kiawah Island Golf Resort"},
+      {"tournament": "PGA Championship", "year": 2014, "course": "Valhalla Golf Club"}
+    ]
+  },
+  {
+    "name": "Zach Johnson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2015, "course": "St Andrews"},
+      {"tournament": "The Masters", "year": 2007, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Henrik Stenson",
+    "country": "Sweden",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2016, "course": "Royal Troon"}
+    ]
+  },
+  {
+    "name": "Jordan Spieth",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2017, "course": "Royal Birkdale"},
+      {"tournament": "The Masters", "year": 2015, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 2015, "course": "Chambers Bay"}
+    ]
+  },
+  {
+    "name": "Francesco Molinari",
+    "country": "Italy",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2018, "course": "Carnoustie"}
+    ]
+  },
+  {
+    "name": "Shane Lowry",
+    "country": "Ireland",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2019, "course": "Royal Portrush"}
+    ]
+  },
+  {
+    "name": "Collin Morikawa",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2021, "course": "Royal St George's"},
+      {"tournament": "PGA Championship", "year": 2020, "course": "TPC Harding Park"}
+    ]
+  },
+  {
+    "name": "Cameron Smith",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2022, "course": "St Andrews"}
+    ]
+  },
+  {
+    "name": "Brian Harman",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2023, "course": "Royal Liverpool (Hoylake)"}
+    ]
+  },
+  {
+    "name": "Xander Schauffele",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2024, "course": "Royal Troon"},
+      {"tournament": "PGA Championship", "year": 2024, "course": "Valhalla Golf Club"}
+    ]
+  },
+  {
+    "name": "Scottie Scheffler",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Open", "year": 2025, "course": "Royal Portrush"},
+      {"tournament": "The Masters", "year": 2022, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2024, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 2025, "course": "Quail Hollow Club"}
+    ]
+  },
+  {
+    "name": "Horton Smith",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1934, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1936, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Byron Nelson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1937, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1942, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1939, "course": "Philadelphia Country Club"},
+      {"tournament": "PGA Championship", "year": 1940, "course": "Hershey Country Club"},
+      {"tournament": "PGA Championship", "year": 1945, "course": "Moraine Country Club"}
+    ]
+  },
+  {
+    "name": "Henry Picard",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1938, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 1939, "course": "Pomonok Country Club"}
+    ]
+  },
+  {
+    "name": "Ralph Guldahl",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1939, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1937, "course": "Oakland Hills Country Club"},
+      {"tournament": "U.S. Open", "year": 1938, "course": "Cherry Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Jimmy Demaret",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1940, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1947, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1950, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Craig Wood",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1941, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1941, "course": "Colonial Country Club"}
+    ]
+  },
+  {
+    "name": "Herman Keiser",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1946, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Claude Harmon",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1948, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Cary Middlecoff",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1955, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1949, "course": "Medinah Country Club"},
+      {"tournament": "U.S. Open", "year": 1956, "course": "Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Jack Burke Jr.",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1956, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 1956, "course": "Blue Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Doug Ford",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1957, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 1955, "course": "Meadowbrook Country Club"}
+    ]
+  },
+  {
+    "name": "Art Wall Jr.",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1959, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Gay Brewer",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1967, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Bob Goalby",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1968, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "George Archer",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1969, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Billy Casper",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1970, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1959, "course": "Winged Foot Golf Club"},
+      {"tournament": "U.S. Open", "year": 1966, "course": "The Olympic Club"}
+    ]
+  },
+  {
+    "name": "Charles Coody",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1971, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Tommy Aaron",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1973, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Raymond Floyd",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1976, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1986, "course": "Shinnecock Hills Golf Club"},
+      {"tournament": "PGA Championship", "year": 1969, "course": "NCR Country Club"},
+      {"tournament": "PGA Championship", "year": 1982, "course": "Southern Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Fuzzy Zoeller",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1979, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 1984, "course": "Winged Foot Golf Club"}
+    ]
+  },
+  {
+    "name": "Craig Stadler",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1982, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Ben Crenshaw",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1984, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1995, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Bernhard Langer",
+    "country": "Germany",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1985, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1993, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Larry Mize",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1987, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Ian Woosnam",
+    "country": "Wales",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1991, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Fred Couples",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1992, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Jose Maria Olazabal",
+    "country": "Spain",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 1994, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 1999, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Vijay Singh",
+    "country": "Fiji",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2000, "course": "Augusta National"},
+      {"tournament": "PGA Championship", "year": 1998, "course": "Sahalee Country Club"},
+      {"tournament": "PGA Championship", "year": 2004, "course": "Whistling Straits"}
+    ]
+  },
+  {
+    "name": "Mike Weir",
+    "country": "Canada",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2003, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Trevor Immelman",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2008, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Angel Cabrera",
+    "country": "Argentina",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2009, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 2007, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Charl Schwartzel",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2011, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Bubba Watson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2012, "course": "Augusta National"},
+      {"tournament": "The Masters", "year": 2014, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Adam Scott",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2013, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Danny Willett",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2016, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Sergio Garcia",
+    "country": "Spain",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2017, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Patrick Reed",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2018, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Dustin Johnson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2020, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 2016, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Hideki Matsuyama",
+    "country": "Japan",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2021, "course": "Augusta National"}
+    ]
+  },
+  {
+    "name": "Jon Rahm",
+    "country": "Spain",
+    "photo": "",
+    "wins": [
+      {"tournament": "The Masters", "year": 2023, "course": "Augusta National"},
+      {"tournament": "U.S. Open", "year": 2021, "course": "Torrey Pines Golf Course"}
+    ]
+  },
+  {
+    "name": "Horace Rawlins",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1895, "course": "Newport Country Club"}
+    ]
+  },
+  {
+    "name": "James Foulis",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1896, "course": "Shinnecock Hills Golf Club"}
+    ]
+  },
+  {
+    "name": "Joe Lloyd",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1897, "course": "Chicago Golf Club"}
+    ]
+  },
+  {
+    "name": "Fred Herd",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1898, "course": "Myopia Hunt Club"}
+    ]
+  },
+  {
+    "name": "Willie Smith",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1899, "course": "Baltimore Country Club"}
+    ]
+  },
+  {
+    "name": "Willie Anderson",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1901, "course": "Myopia Hunt Club"},
+      {"tournament": "U.S. Open", "year": 1903, "course": "Baltusrol Golf Club"},
+      {"tournament": "U.S. Open", "year": 1904, "course": "Glen View Club"},
+      {"tournament": "U.S. Open", "year": 1905, "course": "Myopia Hunt Club"}
+    ]
+  },
+  {
+    "name": "Laurie Auchterlonie",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1902, "course": "Garden City Golf Club"}
+    ]
+  },
+  {
+    "name": "Alex Smith",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1906, "course": "Onwentsia Club"},
+      {"tournament": "U.S. Open", "year": 1910, "course": "Philadelphia Cricket Club"}
+    ]
+  },
+  {
+    "name": "Alec Ross",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1907, "course": "Philadelphia Cricket Club"}
+    ]
+  },
+  {
+    "name": "Fred McLeod",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1908, "course": "Myopia Hunt Club"}
+    ]
+  },
+  {
+    "name": "George Sargent",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1909, "course": "Englewood Golf Club"}
+    ]
+  },
+  {
+    "name": "John McDermott",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1911, "course": "Chicago Golf Club"},
+      {"tournament": "U.S. Open", "year": 1912, "course": "The Country Club of Buffalo"}
+    ]
+  },
+  {
+    "name": "Francis Ouimet",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1913, "course": "The Country Club (Brookline)"}
+    ]
+  },
+  {
+    "name": "Jerome Travers",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1915, "course": "Baltusrol Golf Club"}
+    ]
+  },
+  {
+    "name": "Chick Evans",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1916, "course": "Minikahda Club"}
+    ]
+  },
+  {
+    "name": "Cyril Walker",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1924, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Willie Macfarlane",
+    "country": "Scotland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1925, "course": "Worcester Country Club"}
+    ]
+  },
+  {
+    "name": "Johnny Farrell",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1928, "course": "Olympia Fields Country Club"}
+    ]
+  },
+  {
+    "name": "Billy Burke",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1931, "course": "Inverness Club"}
+    ]
+  },
+  {
+    "name": "Johnny Goodman",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1933, "course": "North Shore Country Club"}
+    ]
+  },
+  {
+    "name": "Olin Dutra",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1934, "course": "Merion Golf Club"},
+      {"tournament": "PGA Championship", "year": 1932, "course": "Keller Golf Course"}
+    ]
+  },
+  {
+    "name": "Sam Parks Jr.",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1935, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Tony Manero",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1936, "course": "Baltusrol Golf Club"}
+    ]
+  },
+  {
+    "name": "Lawson Little",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1940, "course": "Canterbury Golf Club"}
+    ]
+  },
+  {
+    "name": "Lloyd Mangrum",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1946, "course": "Canterbury Golf Club"}
+    ]
+  },
+  {
+    "name": "Lew Worsham",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1947, "course": "St. Louis Country Club"}
+    ]
+  },
+  {
+    "name": "Julius Boros",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1952, "course": "Northwood Club"},
+      {"tournament": "U.S. Open", "year": 1963, "course": "The Country Club (Brookline)"},
+      {"tournament": "PGA Championship", "year": 1968, "course": "Pecan Valley Country Club"}
+    ]
+  },
+  {
+    "name": "Ed Furgol",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1954, "course": "Baltusrol Golf Club"}
+    ]
+  },
+  {
+    "name": "Jack Fleck",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1955, "course": "The Olympic Club"}
+    ]
+  },
+  {
+    "name": "Dick Mayer",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1957, "course": "Inverness Club"}
+    ]
+  },
+  {
+    "name": "Tommy Bolt",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1958, "course": "Southern Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Gene Littler",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1961, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Ken Venturi",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1964, "course": "Congressional Country Club"}
+    ]
+  },
+  {
+    "name": "Orville Moody",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1969, "course": "Champions Golf Club"}
+    ]
+  },
+  {
+    "name": "Hale Irwin",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1974, "course": "Winged Foot Golf Club"},
+      {"tournament": "U.S. Open", "year": 1979, "course": "Inverness Club"},
+      {"tournament": "U.S. Open", "year": 1990, "course": "Medinah Country Club"}
+    ]
+  },
+  {
+    "name": "Lou Graham",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1975, "course": "Medinah Country Club"}
+    ]
+  },
+  {
+    "name": "Jerry Pate",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1976, "course": "Atlanta Athletic Club"}
+    ]
+  },
+  {
+    "name": "Hubert Green",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1977, "course": "Southern Hills Country Club"},
+      {"tournament": "PGA Championship", "year": 1985, "course": "Cherry Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Andy North",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1978, "course": "Cherry Hills Country Club"},
+      {"tournament": "U.S. Open", "year": 1985, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "David Graham",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1981, "course": "Merion Golf Club"},
+      {"tournament": "PGA Championship", "year": 1979, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Larry Nelson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1983, "course": "Oakmont Country Club"},
+      {"tournament": "PGA Championship", "year": 1981, "course": "Atlanta Athletic Club"},
+      {"tournament": "PGA Championship", "year": 1987, "course": "PGA National Golf Club"}
+    ]
+  },
+  {
+    "name": "Scott Simpson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1987, "course": "The Olympic Club"}
+    ]
+  },
+  {
+    "name": "Curtis Strange",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1988, "course": "The Country Club (Brookline)"},
+      {"tournament": "U.S. Open", "year": 1989, "course": "Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Payne Stewart",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1991, "course": "Hazeltine National Golf Club"},
+      {"tournament": "U.S. Open", "year": 1999, "course": "Pinehurst Resort (No. 2)"},
+      {"tournament": "PGA Championship", "year": 1989, "course": "Kemper Lakes Golf Club"}
+    ]
+  },
+  {
+    "name": "Tom Kite",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1992, "course": "Pebble Beach Golf Links"}
+    ]
+  },
+  {
+    "name": "Lee Janzen",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1993, "course": "Baltusrol Golf Club"},
+      {"tournament": "U.S. Open", "year": 1998, "course": "The Olympic Club"}
+    ]
+  },
+  {
+    "name": "Corey Pavin",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1995, "course": "Shinnecock Hills Golf Club"}
+    ]
+  },
+  {
+    "name": "Steve Jones",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 1996, "course": "Oakland Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Retief Goosen",
+    "country": "South Africa",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2001, "course": "Southern Hills Country Club"},
+      {"tournament": "U.S. Open", "year": 2004, "course": "Shinnecock Hills Golf Club"}
+    ]
+  },
+  {
+    "name": "Jim Furyk",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2003, "course": "Olympia Fields Country Club"}
+    ]
+  },
+  {
+    "name": "Michael Campbell",
+    "country": "New Zealand",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2005, "course": "Pinehurst Resort (No. 2)"}
+    ]
+  },
+  {
+    "name": "Geoff Ogilvy",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2006, "course": "Winged Foot Golf Club"}
+    ]
+  },
+  {
+    "name": "Lucas Glover",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2009, "course": "Bethpage Black"}
+    ]
+  },
+  {
+    "name": "Graeme McDowell",
+    "country": "Northern Ireland",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2010, "course": "Pebble Beach Golf Links"}
+    ]
+  },
+  {
+    "name": "Webb Simpson",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2012, "course": "The Olympic Club"}
+    ]
+  },
+  {
+    "name": "Justin Rose",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2013, "course": "Merion Golf Club"}
+    ]
+  },
+  {
+    "name": "Martin Kaymer",
+    "country": "Germany",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2014, "course": "Pinehurst Resort (No. 2)"},
+      {"tournament": "PGA Championship", "year": 2010, "course": "Whistling Straits"}
+    ]
+  },
+  {
+    "name": "Gary Woodland",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2019, "course": "Pebble Beach Golf Links"}
+    ]
+  },
+  {
+    "name": "Bryson DeChambeau",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2020, "course": "Winged Foot Golf Club"},
+      {"tournament": "U.S. Open", "year": 2024, "course": "Pinehurst Resort (No. 2)"}
+    ]
+  },
+  {
+    "name": "Matt Fitzpatrick",
+    "country": "England",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2022, "course": "The Country Club (Brookline)"}
+    ]
+  },
+  {
+    "name": "Wyndham Clark",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2023, "course": "Los Angeles Country Club"}
+    ]
+  },
+  {
+    "name": "J.J. Spaun",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2025, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Leo Diegel",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1928, "course": "Five Farms Country Club"},
+      {"tournament": "PGA Championship", "year": 1929, "course": "Hillcrest Country Club"}
+    ]
+  },
+  {
+    "name": "Tom Creavy",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1931, "course": "Wannamoisett Country Club"}
+    ]
+  },
+  {
+    "name": "Paul Runyan",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1934, "course": "Park Country Club"},
+      {"tournament": "PGA Championship", "year": 1938, "course": "Shawnee Country Club"}
+    ]
+  },
+  {
+    "name": "Johnny Revolta",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1935, "course": "Twin Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Vic Ghezzi",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1941, "course": "Cherry Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Bob Hamilton",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1944, "course": "Manito Golf & Country Club"}
+    ]
+  },
+  {
+    "name": "Chandler Harper",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1950, "course": "Scioto Country Club"}
+    ]
+  },
+  {
+    "name": "Jim Turnesa",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1952, "course": "Big Spring Country Club"}
+    ]
+  },
+  {
+    "name": "Walter Burkemo",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1953, "course": "Birmingham Country Club"}
+    ]
+  },
+  {
+    "name": "Chick Harbert",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1954, "course": "Keller Golf Course"}
+    ]
+  },
+  {
+    "name": "Lionel Hebert",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1957, "course": "Miami Valley Golf Club"}
+    ]
+  },
+  {
+    "name": "Dow Finsterwald",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1958, "course": "Llanerch Country Club"}
+    ]
+  },
+  {
+    "name": "Bob Rosburg",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1959, "course": "Minneapolis Golf Club"}
+    ]
+  },
+  {
+    "name": "Jay Hebert",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1960, "course": "Firestone Country Club"}
+    ]
+  },
+  {
+    "name": "Jerry Barber",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1961, "course": "Olympia Fields Country Club"}
+    ]
+  },
+  {
+    "name": "Bobby Nichols",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1964, "course": "Columbus Country Club"}
+    ]
+  },
+  {
+    "name": "Dave Marr",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1965, "course": "Laurel Valley Golf Club"}
+    ]
+  },
+  {
+    "name": "Al Geiberger",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1966, "course": "Firestone Country Club"}
+    ]
+  },
+  {
+    "name": "Don January",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1967, "course": "Columbine Country Club"}
+    ]
+  },
+  {
+    "name": "Dave Stockton",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1970, "course": "Southern Hills Country Club"},
+      {"tournament": "PGA Championship", "year": 1976, "course": "Congressional Country Club"}
+    ]
+  },
+  {
+    "name": "Lanny Wadkins",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1977, "course": "Pebble Beach Golf Links"}
+    ]
+  },
+  {
+    "name": "John Mahaffey",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1978, "course": "Oakmont Country Club"}
+    ]
+  },
+  {
+    "name": "Bob Tway",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1986, "course": "Inverness Club"}
+    ]
+  },
+  {
+    "name": "Jeff Sluman",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1988, "course": "Oak Tree Golf Club"}
+    ]
+  },
+  {
+    "name": "Wayne Grady",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1990, "course": "Shoal Creek"}
+    ]
+  },
+  {
+    "name": "Paul Azinger",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1993, "course": "Inverness Club"}
+    ]
+  },
+  {
+    "name": "Steve Elkington",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1995, "course": "Riviera Country Club"}
+    ]
+  },
+  {
+    "name": "Mark Brooks",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1996, "course": "Valhalla Golf Club"}
+    ]
+  },
+  {
+    "name": "Davis Love III",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1997, "course": "Winged Foot Golf Club"}
+    ]
+  },
+  {
+    "name": "David Toms",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2001, "course": "Atlanta Athletic Club"}
+    ]
+  },
+  {
+    "name": "Rich Beem",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2002, "course": "Hazeltine National Golf Club"}
+    ]
+  },
+  {
+    "name": "Shaun Micheel",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2003, "course": "Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Yang Yong-eun",
+    "country": "South Korea",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2009, "course": "Hazeltine National Golf Club"}
+    ]
+  },
+  {
+    "name": "Keegan Bradley",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2011, "course": "Atlanta Athletic Club"}
+    ]
+  },
+  {
+    "name": "Jason Dufner",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2013, "course": "Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Jason Day",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2015, "course": "Whistling Straits"}
+    ]
+  },
+  {
+    "name": "Jimmy Walker",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2016, "course": "Baltusrol Golf Club"}
+    ]
+  },
+  {
+    "name": "Justin Thomas",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 2017, "course": "Quail Hollow Club"},
+      {"tournament": "PGA Championship", "year": 2022, "course": "Southern Hills Country Club"}
+    ]
+  },
+  {
+    "name": "Brooks Koepka",
+    "country": "United States",
+    "photo": "",
+    "wins": [
+      {"tournament": "U.S. Open", "year": 2017, "course": "Erin Hills"},
+      {"tournament": "U.S. Open", "year": 2018, "course": "Shinnecock Hills Golf Club"},
+      {"tournament": "PGA Championship", "year": 2018, "course": "Bellerive Country Club"},
+      {"tournament": "PGA Championship", "year": 2019, "course": "Bethpage Black"},
+      {"tournament": "PGA Championship", "year": 2023, "course": "Oak Hill Country Club"}
+    ]
+  },
+  {
+    "name": "Jim Ferrier",
+    "country": "Australia",
+    "photo": "",
+    "wins": [
+      {"tournament": "PGA Championship", "year": 1947, "course": "Plum Hollow Country Club"}
     ]
   }
 ]
