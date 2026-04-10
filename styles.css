@@ -32,6 +32,7 @@ h1 { margin: 0; font-size: 1.8rem; }
   border-radius: 14px;
   padding: 0.9rem;
 }
+.hidden { display: none; }
 .hint-title { margin: 0 0 0.5rem; font-size: 1rem; color: var(--accent); }
 ul { margin: 0; padding-left: 1.1rem; }
 li + li { margin-top: 0.35rem; }

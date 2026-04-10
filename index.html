@@ -17,11 +17,16 @@
 
       <form id="guess-form" class="guess-form" autocomplete="off">
         <label for="guess-input">Your guess</label>
-        <input id="guess-input" name="guess" type="text" placeholder="Type golfer name" required />
+        <input id="guess-input" name="guess" type="text" list="golfer-options" placeholder="Type golfer name" required />
+        <datalist id="golfer-options"></datalist>
         <button type="submit">Submit Guess</button>
       </form>
 
       <section class="card status" id="status"></section>
+      <section class="card hidden" id="wrong-guesses-wrap">
+        <h2 class="hint-title">Incorrect guesses</h2>
+        <ul id="wrong-guesses"></ul>
+      </section>
 
       <div class="attempts" id="attempts"></div>
 
