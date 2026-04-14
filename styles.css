@@ -1,0 +1,100 @@
+:root {
+  color-scheme: dark;
+  --bg: #071620;
+  --card: #122736;
+  --accent: #7ee081;
+  --text: #f5f7fa;
+  --muted: #afbcc8;
+  --danger: #ff6b6b;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  background: radial-gradient(circle at top, #163850 0%, var(--bg) 60%);
+  color: var(--text);
+}
+.app {
+  width: min(100vw, 430px);
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 1rem 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+h1 { margin: 0; font-size: 1.8rem; }
+.subtitle { margin: 0.2rem 0 0; color: var(--muted); }
+.card {
+  background: color-mix(in srgb, var(--card) 92%, black);
+  border: 1px solid #2f5168;
+  border-radius: 14px;
+  padding: 0.9rem;
+}
+.hidden { display: none; }
+.hint-title { margin: 0 0 0.5rem; font-size: 1rem; color: var(--accent); }
+ul { margin: 0; padding-left: 1.1rem; }
+li + li { margin-top: 0.35rem; }
+.guess-form { display: grid; gap: 0.45rem; }
+label { color: var(--muted); font-size: 0.9rem; }
+input, button {
+  font: inherit;
+  border-radius: 10px;
+  border: none;
+  padding: 0.85rem;
+}
+input { background: #0d1f2c; color: var(--text); border: 1px solid #33576f; }
+button {
+  background: var(--accent);
+  color: #08200d;
+  font-weight: 700;
+}
+button:active { transform: scale(0.99); }
+.status { min-height: 2.75rem; display: flex; align-items: center; }
+.status.shake {
+  animation: shake .4s ease;
+  color: var(--danger);
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-8px); }
+  75% { transform: translateX(8px); }
+}
+.attempts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.35rem;
+}
+.dot {
+  height: 8px;
+  border-radius: 99px;
+  background: #2f4351;
+}
+.dot.used { background: var(--danger); }
+.dot.correct { background: var(--accent); }
+.new-game {
+  margin-top: auto;
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid #3d657f;
+}
+dialog {
+  width: min(90vw, 360px);
+  border: 1px solid #34566b;
+  border-radius: 14px;
+  background: #102838;
+  color: var(--text);
+}
+#winner-image {
+  width: 100%;
+  border-radius: 10px;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #091722;
+}
+.dialog-actions { display: flex; gap: 0.5rem; }
+.dialog-actions button { flex: 1; }
+@media (max-width: 360px) {
+  h1 { font-size: 1.55rem; }
+}
